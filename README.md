@@ -50,7 +50,7 @@ This is a simple and beginner-friendly YouTube video/audio downloader built usin
 
 ## 📥 Installation
 
-1. Download the installer `YouTube_Downloader_Windows_v1.0.1.exe` file from the [Releases](#) section.
+1. Download the installer `YouTube_Downloader_Windows_v1.0.1.exe` file from the [Releases](https://github.com/itsNaleeka/YT-video-downloader/releases/tag/Release) section.
 2. Run the installer — the app will be installed to:
 
 ```
