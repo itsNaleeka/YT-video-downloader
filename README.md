@@ -28,7 +28,6 @@ This is a simple and beginner-friendly YouTube video/audio downloader built usin
 
 
 ## Screen Records
-### Copy Link
 ![Download GIF](preview1.gif)
 
 ### Downloadig in progress
