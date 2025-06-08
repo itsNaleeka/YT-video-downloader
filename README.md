@@ -1,6 +1,4 @@
 
----
-
 # 🎬 YouTube Downloader (Beginner-Friendly Python Project)
 
 This is a simple and beginner-friendly YouTube video/audio downloader built using **Python**, **yt-dlp**, and **CustomTkinter**. It features a clean graphical user interface that allows users to download YouTube videos in different qualities or extract audio in various bitrates.
