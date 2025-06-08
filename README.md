@@ -22,14 +22,14 @@ This is a simple and beginner-friendly YouTube video/audio downloader built usin
 ## 📸 Screenshots
 
 ### Main App Interface
-![App Screenshot](/Screenshot.png)
+![App Screenshot](assets/Screenshot.png)
 
 
 ## Screen Records
-![Download GIF](preview1.gif)
+![Download GIF](assets/preview1.gif)
 
 ### Downloadig in progress
-![Downloading in progress](preview2.gif)
+![Downloading in progress](assets/preview2.gif)
 
 ---
 
